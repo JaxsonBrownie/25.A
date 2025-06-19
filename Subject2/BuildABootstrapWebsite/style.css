@@ -1,0 +1,65 @@
+.primary-color {
+    color: rgb(22, 95, 42)
+}
+
+.secondary-color {
+    color: rgb(130, 229, 120);
+}
+
+.cus-btn-quote {
+    color: rgb(22, 95, 42);
+    background-color: rgb(64, 206, 102);
+    padding: 10px 25px;
+}
+
+.cus-btn-outline {
+    color: rgb(22, 95, 42);
+    padding: 10px 25px;
+    border: 2px rgb(22, 95, 42) solid;
+}
+
+.cus-navbar {
+    background-color: lightgray;
+}
+
+.cus-insurance-card {
+    background-color: white;
+    border-radius: 5px;
+}
+
+.cus-week-free-card {
+    background-color: rgb(253, 250, 212);
+    border: 1px lightgray solid;
+    border-radius: 10px;
+}
+
+.cus-bg-footer {
+    background-image: url('images/bg-artwork.png');
+    background-size: cover;
+    background-color: rgb(8, 24, 12);
+    height: 180px;
+}
+
+.cus-link-light {
+    color: rgb(255, 255, 255);
+}
+.cus-link-light:hover {
+    color: rgb(168, 219, 155);
+}
+
+.cus-link-dark {
+    color: rgb(0, 0, 0);
+}
+.cus-link-dark:hover {
+    color: rgb(36, 49, 32);
+}
+
+.cus-bg-thumbnail {
+    background-image: url("images/nib-image3.jpg");
+}
+
+.cus-overlapping-card {
+    max-width: 700px;
+    position: relative;
+    padding: 10px
+}
